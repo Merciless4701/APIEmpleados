@@ -1,0 +1,11 @@
+com.vhgs.APIEmpleados
+com.vhgs.APIEmpleados.audit
+com.vhgs.APIEmpleados.config
+com.vhgs.APIEmpleados.controller
+com.vhgs.APIEmpleados.dto
+com.vhgs.APIEmpleados.entity
+com.vhgs.APIEmpleados.exceptions
+com.vhgs.APIEmpleados.mapper
+com.vhgs.APIEmpleados.repository
+com.vhgs.APIEmpleados.service
+com.vhgs.APIEmpleados.service.Impl
