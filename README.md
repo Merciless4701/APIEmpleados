@@ -18,8 +18,11 @@ Esta es una API RESTful construida con Spring Boot para gestionar información d
 
 ## Tecnologías Utilizadas
 
-* Java
+* Java 17
 * Spring Boot
+* MongoDB
+* Mockito
+* Lombok
 
 ## Requisitos Previos
 
