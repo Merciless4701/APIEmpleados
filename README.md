@@ -62,6 +62,8 @@ Ejecuta la aplicación Spring Boot:
 mvn spring-boot:run
 en caso de ECLIPSE solamente dar click derecho al proyecto -> Run AS -> Java aplication
 
+para correr el test ejecutar dar click derecho al proyecto -> Run AS -> Maven Install
+
 La aplicación se ejecutará en el puerto 8080 por defecto.
 
 ## Documentación de la API (Swagger UI)
